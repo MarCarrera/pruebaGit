@@ -1,0 +1,54 @@
+commit 4af61e873f82eb22b9b81c10ac39ebaea0dfd25e
+Merge: 14f14ba ba69c3a
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Wed Jan 11 16:54:40 2023 -0600
+
+    Merge branch 'js'
+
+commit ba69c3ad493a79b8cd0d0712c265311e5c4a127b
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Wed Jan 11 16:49:40 2023 -0600
+
+    creando index.js
+
+commit 14f14bac80fd49ab79cf1572bd99f8e7ce23f4fa
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Wed Jan 11 16:43:27 2023 -0600
+
+    creando clase styles.css
+
+commit 32bff8b8405b23a88ba7d21a6d54aff6c81167c9
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Sat Jan 7 17:36:26 2023 -0600
+
+    creando index.html
+
+commit a9e4a602cdb976a1842b2ec65d8ba36da9352767
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Fri Dec 30 19:38:01 2022 -0600
+
+    ignorando archivos .exe
+
+commit a14cac64f11e92b37b587e225cff28329af1baaa
+Author: Mar Carrera <91397419+MarCarrera@users.noreply.github.com>
+Date:   Fri Dec 30 19:02:08 2022 -0600
+
+    creando licencia del repositorio
+
+commit c9e7c9bfc940836582b6c0742d2a26d0c976c6a4
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Fri Dec 30 18:55:30 2022 -0600
+
+    Agregando mas cambios
+
+commit c0304d788e8a88aff107e4b089ad735980f6264a
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Fri Dec 30 18:45:17 2022 -0600
+
+    agregando segundo cambio en Readme
+
+commit 09420d3c0996fcb31be4a11585912787b1028cc6
+Author: Mar Carrera <kmcarreraprieto@gmail.com>
+Date:   Fri Dec 30 18:40:40 2022 -0600
+
+    primer commit

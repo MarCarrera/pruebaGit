@@ -1,4 +1,16 @@
 html{
     background-color: blueviolet;
-    color: #fff
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+a{
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+img{
+    max-width: 40%;
 }
